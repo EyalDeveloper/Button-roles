@@ -1,0 +1,19 @@
+{
+  "clientId": "your-bot-id",
+  "guildId": "your-guild-id",
+  "token": "your-bot-token",
+  "database": "your-mongo-url",
+
+  "getroles": {
+    "role1": "role1-name-here",
+    "role1name": "Staff",
+    "role2": "role2-id-here",
+    "role2name": "role2-name-here",
+    "role3": "role3-id-here",
+    "role3name": "role3-name-here"
+  },
+
+  "verify": {
+    "role": "verify-role-id-here"
+  }
+}
